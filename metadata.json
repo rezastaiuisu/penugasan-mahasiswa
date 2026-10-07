@@ -1,0 +1,6 @@
+{
+  "name": "Portal Penugasan Mahasiswa - Dosen Reza Lubis",
+  "description": "Sistem Pengumpulan, Validasi Mandiri & Manajemen Penugasan Mahasiswa terintegrasi Google Drive dan Gmail",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

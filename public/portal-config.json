@@ -1,0 +1,16 @@
+{
+  "namaDosen": "Reza Lubis",
+  "gelar": "M.Pd",
+  "nip": "198504122014031002",
+  "emailDosen": "rezastaiuisu@gmail.com",
+  "kampus": "STAI UISU (Sekolah Tinggi Agama Islam UISU)",
+  "domainHosting": "rezalubis.com/penugasan-mahasiswa/",
+  "googleDriveDefaultFolderId": "1AbCdEfGhIjKlMnOpQrStUvWxYz_2026",
+  "googleAppsScriptWebhookUrl": "",
+  "notifikasiEmailAktif": true,
+  "formatSubjekEmail": "[TUGAS STAI UISU] Konfirmasi Pengumpulan: {judul_tugas} - {nama_pengirim}",
+  "secretAdminPin": "123456",
+  "adminUsername": "rezalubis",
+  "adminPassword": "dosen2026",
+  "requireLoginForAdmin": true
+}
